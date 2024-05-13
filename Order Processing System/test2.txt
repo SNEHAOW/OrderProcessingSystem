@@ -1,0 +1,4 @@
+1001, John Doe, Smartphone, 2, 1000
+1002, Jane Smith, Laptop, 1, 1500
+1023, Ethan Lewis, Gaming Chair, 1, 150
+1030, Emma Clark, Air Purifier, 1, 90

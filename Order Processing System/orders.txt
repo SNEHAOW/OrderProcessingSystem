@@ -1,0 +1,30 @@
+1001, John Doe, Smartphone, 2, 999.99
+1002, Jane Smith, Laptop, 3, 1500.89
+1003, Mike Johnson, Headphones, 30, 85.50
+1004, Emily Brown, Mouse, 15, 10.58
+1005, Alex Wilson, Keyboard, 2, 30
+1006, Sarah Davis, Monitor, 1, 300
+1007, David Lee, Tablet, 8, 200.45
+1008, Lisa Anderson, Printer, 9, 100.58
+1009, Kevin Miller, Speakers, 2, 40.58
+1010, Rachel Taylor, External HDD, 1, 80
+1011, Michael Williams, Camera, 7, 400
+1012, Jessica Martinez, Smartwatch, 6, 150
+1013, Chris Jackson, Game Console, 4, 350
+1014, Laura Robinson, SSD, 3, 60
+1015, Brian Garcia, Router, 1, 50
+1016, Amanda Hernandez, Microphone, 1, 70
+1017, Daniel Wilson, Graphics Card, 1, 250
+1018, Maria Thompson, Wireless Earbuds, 2, 25
+1019, Christopher Davis, VR Headset, 1, 200
+1020, Melissa Adams, Bluetooth Speaker, 1, 45
+1021, William Scott, Mechanical Keyboard, 1, 80
+1022, Olivia Hall, Gaming Mouse, 1, 35
+1023, Ethan Lewis, Gaming Chair, 1, 150
+1024, Mia Perez, Fitness Tracker, 2, 60
+1025, James White, Coffee Maker, 1, 30
+1026, Ava Harris, Portable Charger, 9, 20
+1027, Benjamin King, Projector, 8, 299.99
+1028, Sofia Martinez, Backpack, 7, 40.25
+1029, Jackson Green, Smart Thermostat, 2, 120
+1030, Emma Clark, Air Purifier, 8, 190.99

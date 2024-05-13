@@ -1,0 +1,5 @@
+1026, Ava Harris, Portable Charger, 3, 20
+1027, Benjamin King, Projector, 10, 300
+1028, Sofia Martinez, Backpack, 51, 40.52
+1029, Jackson Green, Smart Thermostat, 10, 120.35
+1030, Emma Clark, Air Purifier, 3, 90

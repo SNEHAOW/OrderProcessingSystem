@@ -1,0 +1,6 @@
+1001, John Doe, Smartphone, 2, 100
+1023, Ethan Lewis, Gaming Chair, 1, 150
+1024, Mia Perez, Fitness Tracker, 2, 60
+1028, Sofia Martinez, Backpack, 1, 40
+1029, Jackson Green, Smart Thermostat, 1, 120
+1030, Emma Clark, Air Purifier, 1, 90

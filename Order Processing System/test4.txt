@@ -1,0 +1,5 @@
+1016, Amanda Hernandez, Microphone, 12, 70
+1017, Daniel Wilson, Graphics Card, 14, 250
+1018, Maria Thompson, Wireless Earbuds, 2, 25
+1019, Christopher Davis, VR Headset, 10, 200
+1020, Melissa Adams, Bluetooth Speaker, 1, 45
